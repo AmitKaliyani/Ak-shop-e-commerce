@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "fb63",
+      "username": "Amit",
+      "email": "kaliyaniamit705@gmail.com",
+      "password": "Amit@2003",
+      "cpassword": "Amit@2003",
+      "role": "1",
+      "createdAt": "2025-02-21T12:47:04.233Z"
+    },
+    {
+      "id": "5b3f",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "cpassword": "admin123",
+      "role": "1",
+      "createdAt": "2025-02-21T13:49:40.651Z"
+    },
+    {
+      "id": "f4db",
+      "username": "Amit",
+      "email": "kaliyaniamit705@gmail.com",
+      "password": "amit901601",
+      "cpassword": "amit901601",
+      "role": "1",
+      "createdAt": "2025-02-22T18:08:54.460Z"
+    }
+  ],
+  "products": []
+}
